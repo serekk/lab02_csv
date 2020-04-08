@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Karol\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Karol\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lab02_csv.941060774.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Karol\RiderProjects\lab02_csv" t="IncludeFlat">
+      <e p="lab02_csv" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="lab02_csv.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="lab02_csv.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="lab02_csv.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

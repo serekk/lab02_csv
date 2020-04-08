@@ -1,0 +1,13 @@
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.exe
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.deps.json
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.runtimeconfig.json
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.runtimeconfig.dev.json
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.dll
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\bin\Debug\netcoreapp3.1\lab02_csv.pdb
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.csprojAssemblyReference.cache
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.csproj.CoreCompileInputs.cache
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.AssemblyInfoInputs.cache
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.AssemblyInfo.cs
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.dll
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.pdb
+C:\Users\Karol\RiderProjects\lab02_csv\lab02_csv\obj\Debug\netcoreapp3.1\lab02_csv.genruntimeconfig.cache
